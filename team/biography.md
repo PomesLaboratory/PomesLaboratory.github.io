@@ -182,36 +182,6 @@ sitemap:
   </div>
 </div>
 
-<div id='fangwei_chang' class="content">
-  <div class="text">
-    <h2><strong>Fangwei Chang</strong></h2>
-    <div class="content">
-      <img src="/team/photos/Fangwei_Chang.jpg">
-      <img src="/team/photos/aB_rendered.png">
-    </div>
-    <p>
-      <b>E-mail:</b> fangwei.chang@mail.utoronto.ca
-      <br>
-      Hi, I'm Fangwei! I became connected with the lab in 2015 through the Sanofi Biotech competition and am currently working on a project concerning the interaction of peptide drugs and Alzheimer's amyloids. I completed my BSc in physics/math at U of T (2019) and will be continuing at U of T as an MASc student in the ECE department.
-    </p>
-  </div>
-</div>
-
-<div id='fei_wang' class="content">
-  <div class="text">
-    <h2><strong>Fei Wang</strong></h2>
-    <div class="content">
-      <img src="/team/photos/fei_wang.jpg">
-      <img src="/team/photos/mol_fei.png">
-    </div>
-    <p>
-      Hi! I am a statistics student at the University of Toronto. I enjoy various stuff like playing the piano, ice-skating, poems and rock music. I also like talking to parrots and wish to keep a parrot and a large dog at the same time!
-    </p>
-  </div>
-</div>
-
-
-
 <h1 style="text-align: center;"> Alumni </h1>
 
 <div id='aditi_ramesh' class="content">
@@ -333,6 +303,34 @@ sitemap:
       <!--img src="/team/photos/HV1.png"-->
     </div>
     <p>
+    </p>
+  </div>
+</div>
+
+<div id='fangwei_chang' class="content">
+  <div class="text">
+    <h2><strong>Fangwei Chang</strong></h2>
+    <div class="content">
+      <img src="/team/photos/Fangwei_Chang.jpg">
+      <img src="/team/photos/aB_rendered.png">
+    </div>
+    <p>
+      <b>E-mail:</b> fangwei.chang@mail.utoronto.ca
+      <br>
+      Hi, I'm Fangwei! I became connected with the lab in 2015 through the Sanofi Biotech competition and am currently working on a project concerning the interaction of peptide drugs and Alzheimer's amyloids. I completed my BSc in physics/math at U of T (2019) and will be continuing at U of T as an MASc student in the ECE department.
+    </p>
+  </div>
+</div>
+
+<div id='fei_wang' class="content">
+  <div class="text">
+    <h2><strong>Fei Wang</strong></h2>
+    <div class="content">
+      <img src="/team/photos/fei_wang.jpg">
+      <img src="/team/photos/mol_fei.png">
+    </div>
+    <p>
+      Hi! I am a statistics student at the University of Toronto. I enjoy various stuff like playing the piano, ice-skating, poems and rock music. I also like talking to parrots and wish to keep a parrot and a large dog at the same time!
     </p>
   </div>
 </div>
