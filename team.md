@@ -176,7 +176,7 @@ sitemap:
         <!-- ENDS HERE -->
       </div>
         <h3 class="header-text">Jingjing<br>Huang</h3>
-        <p class="title">PhD Candidate</p>
+        <p class="title">PhD Researcher</p>
       </div>
   </div>
 
@@ -194,7 +194,7 @@ sitemap:
         <!-- ENDS HERE -->
       </div>
         <h3 class="header-text">Zhi<br>Zeng</h3>
-        <p class="title">PhD Candidate</p>
+        <p class="title">PhD Researcher</p>
       </div>
   </div>
 
@@ -249,7 +249,7 @@ sitemap:
           <!-- ENDS HERE -->
         </div>
           <h3 class="header-text">Anna<br>Liang</h3>
-          <p class="title">MSc Candidate</p>
+          <p class="title">MSc Researcher</p>
         </div>
     </div>
 
@@ -267,7 +267,7 @@ sitemap:
           <!-- ENDS HERE -->
         </div>
           <h3 class="header-text">Andrea<br>Guljas</h3>
-          <p class="title">MSc Candidate</p>
+          <p class="title">MSc Researcher</p>
         </div>
     </div>
 
@@ -285,7 +285,7 @@ sitemap:
           <!-- ENDS HERE -->
         </div>
           <h3 class="header-text">Lamia<br>Hossain</h3>
-          <p class="title">MSc Candidate</p>
+          <p class="title">MSc Researcher</p>
         </div>
     </div>
 
@@ -303,43 +303,7 @@ sitemap:
           <!-- ENDS HERE -->
         </div>
           <h3 class="header-text">Richard<br>Banh</h3>
-          <p class="title">MSc Candidate</p>
-        </div>
-    </div>
-
-    <!-- Fangwei Chang -->
-    <div class="column">
-      <div class="card card-deck">
-        <div class="container">
-          <img class="centered-and-cropped" src="/team/photos/Fangwei_Chang.jpg">
-          <!-- OPTIONAL HOVER STUFF -->
-          <div class="overlay">
-            <a href="{{ "/team/biography/#fangwei_chang" | absolute_url }}">
-              <img class="centered-and-cropped" src="/team/photos/aB_rendered.png">
-            </a>
-          </div>
-          <!-- ENDS HERE -->
-        </div>
-          <h3 class="header-text">Fangwei<br>Chang</h3>
-          <p class="title">Researcher</p>
-        </div>
-    </div>
-
-    <!-- Fei Wang -->
-    <div class="column">
-      <div class="card card-deck">
-        <div class="container">
-          <img class="centered-and-cropped" src="/team/photos/fei_wang.jpg">
-          <!-- OPTIONAL HOVER STUFF -->
-          <div class="overlay">
-            <a href="{{ "/team/biography/#fei_wang" | absolute_url }}">
-              <img class="centered-and-cropped" src="/team/photos/mol_fei.png">
-            </a>
-          </div>
-          <!-- ENDS HERE -->
-        </div>
-          <h3 class="header-text">Fei<br>Wang</h3>
-          <p class="title">Researcher</p>
+          <p class="title">MSc Researcher</p>
         </div>
     </div>
   </div>
@@ -357,6 +321,8 @@ sitemap:
   <li><a href="{{ "/team/biography/#christopher_ing" | absolute_url }}">Christopher Ing - PhD</a></li>
   <li><a href="{{ "/team/biography/#chris_madill" | absolute_url }}">Chris Madill - PhD</a></li>
   <li><a href="{{ "/team/biography/#chris_neale" | absolute_url }}">Chris Neale - PhD</a></li>
+  <li><a href="{{ "/team/biography/#fangwei_chang" | absolute_url }}">Fangwei Chang - Researcher</a></li>
+  <li><a href="{{ "/team/biography/#fei_wang" | absolute_url }}">Fei Wang - Researcher</a></li>
   <li><a href="{{ "/team/biography/#david_caplan" | absolute_url }}">David Caplan - MSc</a></li>
   <li><a href="{{ "/team/biography/#elisa_fadda" | absolute_url }}">Elisa Fadda - Postdoctoral Fellow</a></li>
   <li><a href="{{ "/team/biography/#ellen_li" | absolute_url }}">Ellen Li - Researcher</a></li>
