@@ -327,17 +327,22 @@ sitemap:
   <li><a href="{{ "/team/biography/#elisa_fadda" | absolute_url }}">Elisa Fadda - Postdoctoral Fellow</a></li>
   <li><a href="{{ "/team/biography/#ellen_li" | absolute_url }}">Ellen Li - Researcher</a></li>
   <li><a href="{{ "/team/biography/#grace_li" | absolute_url }}">Grace Li - Ph.D.</a></li>
+  <li>Helen Yao - Rotation Student</a></li>
   <li><a href="{{ "/team/biography/#howard_wu" | absolute_url }}">Howard Wu - Researcher</a></li>
   <li>John Holyoake - Postdoctoral Fellow</li>
   <li>Joshua Charkow - Researcher</li>
   <li>Kethika Kulleperuma - PhD</li>
   <li><a href="{{ "/team/biography/#loan_huynh" | absolute_url }}">Loan Huynh - Postdoctoral Fellow</a></li>
   <li><a href="{{ "/team/biography/#marty_kurylowicz" | absolute_url }}">Marty Kurylowicz - PhD</a></li>
+  <li>Maxine Ty - Rotation Student</a></li>
+  <li>Mishaal Munawar - Rotation Student</a></li>
   <li><a href="{{ "/team/biography/#nick_wang" | absolute_url }}">Nick Wang - Researcher</a></li>
   <li><a href="{{ "/team/biography/#nilu_chakrabarti" | absolute_url }}">Nilu Chakrabarti - Postdoctoral Fellow</a></li>
   <li>Nisha Patel - Researcher</li>
   <li>Pia Ädelrot - Visiting Professor</li>
   <li><a href="{{ "/team/biography/#rachel_ko" | absolute_url }}">Rachel Ko - Researcher</a></li>
+  <li>Robert Lu - Rotation Student</a></li>
+  <li>Robert Wilson - Rotation Student</a></li>
   <li><a href="{{ "/team/biography/#rowan_henry" | absolute_url }}">Rowan Henry - MSc</a></li>
   <li><a href="{{ "/team/biography/#sarah_rauscher" | absolute_url }}">Sarah Rauscher - PhD</a></li>
   <li>Shabnam Hooshmand - Visiting Professor</li>
