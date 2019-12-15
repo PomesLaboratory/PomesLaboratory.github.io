@@ -329,6 +329,7 @@ sitemap:
   <li><a href="{{ "/team/biography/#grace_li" | absolute_url }}">Grace Li - Ph.D.</a></li>
   <li>Helen Yao - Rotation Student</a></li>
   <li><a href="{{ "/team/biography/#howard_wu" | absolute_url }}">Howard Wu - Researcher</a></li>
+  <li>Jethro Prinston - Rotation Student</a></li>
   <li>John Holyoake - Postdoctoral Fellow</li>
   <li>Joshua Charkow - Researcher</li>
   <li>Kethika Kulleperuma - PhD</li>
