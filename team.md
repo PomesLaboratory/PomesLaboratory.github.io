@@ -321,7 +321,7 @@ sitemap:
   <li><a href="{{ "/team/biography/#christopher_ing" | absolute_url }}">Christopher Ing - PhD</a></li>
   <li><a href="{{ "/team/biography/#chris_madill" | absolute_url }}">Chris Madill - PhD</a></li>
   <li><a href="{{ "/team/biography/#chris_neale" | absolute_url }}">Chris Neale - PhD</a></li>
-  <li><a href="{{ "/team/biography/#fangwei_chang" | absolute_url }}">Fangwei Chang - Researcher</a></li>
+  <li>Fangwei Chang - Researcher</li>
   <li><a href="{{ "/team/biography/#fei_wang" | absolute_url }}">Fei Wang - Researcher</a></li>
   <li><a href="{{ "/team/biography/#david_caplan" | absolute_url }}">David Caplan - MSc</a></li>
   <li><a href="{{ "/team/biography/#elisa_fadda" | absolute_url }}">Elisa Fadda - Postdoctoral Fellow</a></li>
