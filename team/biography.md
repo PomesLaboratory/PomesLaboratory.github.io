@@ -307,19 +307,6 @@ sitemap:
   </div>
 </div>
 
-<div id='fangwei_chang' class="content">
-  <div class="text">
-    <h2><strong>Fangwei Chang</strong></h2>
-    <div class="content">
-      <img src="/team/photos/aB_rendered.png">
-    </div>
-    <p>
-      <br>
-      Hi, I'm Fangwei! I became connected with the lab in 2015 through the Sanofi Biotech competition and am currently working on a project concerning the interaction of peptide drugs and Alzheimer's amyloids. I completed my BSc in physics/math at U of T (2019) and will be continuing at U of T as an MASc student in the ECE department.
-    </p>
-  </div>
-</div>
-
 <div id='fei_wang' class="content">
   <div class="text">
     <h2><strong>Fei Wang</strong></h2>
