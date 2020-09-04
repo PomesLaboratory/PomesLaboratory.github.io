@@ -109,19 +109,6 @@ sitemap:
   </div>
 </div>
 
-<div id='ananya_srivastava' class="content">
-  <div class="text">
-    <h2><strong>Ananya Srivastava</strong></h2>
-    <div class="content">
-      <img src="/team/photos/Ananya_Srivastava.jpg">
-      <img src="/team/photos/mol_ananya.png">
-    </div>
-    <p>
-      Hello! My name is Ananya and I am an avid traveller, glitter aficionado, and aspiring UofT graduate student from Mississauga, Ontario. I received my BSc from Bishop’s University where I studied honours chemistry with a minor in classical music. I am a recovering technophobe fascinated by the endless possibilities of computational chemistry, and I hope to complete my graduate studies in this field. I love meeting new people, making bad chemistry jokes (because all the good ones argon), and taking long walks on the beach.
-    </p>
-  </div>
-</div>
-
 <div id='anna_liang' class="content">
   <div class="text">
     <h2><strong>Anna Liang</strong></h2>
@@ -192,6 +179,19 @@ sitemap:
       <!--img src="/team/photos/HV1.png"-->
     </div>
     <p>
+    </p>
+  </div>
+</div>
+
+<div id='ananya_srivastava' class="content">
+  <div class="text">
+    <h2><strong>Ananya Srivastava</strong></h2>
+    <div class="content">
+      <img src="/team/photos/Ananya_Srivastava.jpg">
+      <img src="/team/photos/mol_ananya.png">
+    </div>
+    <p>
+      Hello! My name is Ananya and I am an avid traveller, glitter aficionado, and aspiring UofT graduate student from Mississauga, Ontario. I received my BSc from Bishop’s University where I studied honours chemistry with a minor in classical music. I am a recovering technophobe fascinated by the endless possibilities of computational chemistry, and I hope to complete my graduate studies in this field. I love meeting new people, making bad chemistry jokes (because all the good ones argon), and taking long walks on the beach.
     </p>
   </div>
 </div>
