@@ -287,25 +287,7 @@ sitemap:
           <p class="title">MSc Researcher</p>
         </div>
     </div>
-    
-    <!-- Bruce (Ruikai) Wu -->
-    <div class="column">
-      <div class="card card-deck">
-        <div class="container">
-          <img class="centered-and-cropped" src="/team/photos/mol_fei.png" style="object-position: 0% 50;">
-          <!-- OPTIONAL HOVER STUFF -->
-          <div class="overlay">
-            <!--a href="{{ "/team/biography/#THEIR_NAME" | absolute_url }}"-->
-              <img class="centered-and-cropped" src="/team/photos/mol_fei.png">
-            </a>
-          </div>
-          <!-- ENDS HERE -->
-        </div>
-          <h3 class="header-text">Bruce<br>Wu</h3>
-          <p class="title">Undergraduate Researcher</p>
-        </div>
-    </div>
-
+   
     <!-- Bruce (Ruikai) Wu -->
     <div class="column">
       <div class="card card-deck">
