@@ -217,24 +217,6 @@ sitemap:
         </div>
     </div>
 
-    <!-- Ananya Srivastava -->
-    <div class="column">
-      <div class="card card-deck">
-        <div class="container">
-          <img class="centered-and-cropped" src="/team/photos/Ananya_Srivastava.jpg" style="object-position: 75% 0;">
-          <!-- OPTIONAL HOVER STUFF -->
-          <div class="overlay">
-            <a href="{{ "/team/biography/#ananya_srivastava" | absolute_url }}">
-              <img class="centered-and-cropped" src="/team/photos/mol_ananya.png">
-            </a>
-          </div>
-          <!-- ENDS HERE -->
-        </div>
-          <h3 class="header-text">Ananya<br>Srivastava</h3>
-          <p class="title">MSc</p>
-        </div>
-    </div>
-
     <!-- Anna Liang -->
     <div class="column">
       <div class="card card-deck">
@@ -303,7 +285,7 @@ sitemap:
           <!-- ENDS HERE -->
         </div>
           <h3 class="header-text">Richard<br>Banh</h3>
-          <p class="title">MSc Researcher</p>
+          <p class="title">PhD Researcher</p>
         </div>
     </div>
   </div>
@@ -315,6 +297,7 @@ sitemap:
 
 <ul class="subMenu">
   <li><a href="{{ "/team/biography/#aditi_ramesh" | absolute_url }}">Aditi Ramesh - MSc</a></li>
+  <li><a href="{{ "/team/biography/#ananya_srivastava" | absolute_url }}">Ananya Srivastava - MSc</a></li>
   <li>Adrian Levine - Researcher</li>
   <li><a href="{{ "/team/biography/#anna_nikolic" | absolute_url }}">Ana Nikolic - Researcher</a></li>
   <li><a href="{{ "/team/biography/#ching-hsing_yu" | absolute_url }}">Ching-Hsing Yu - Researcher</a></li>
