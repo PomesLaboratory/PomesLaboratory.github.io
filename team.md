@@ -313,7 +313,7 @@ sitemap:
           <img class="centered-and-cropped" src="/team/photos/mol_fei.png" style="object-position: 0% 50;">
           <!-- OPTIONAL HOVER STUFF
           <div class="overlay">
-            <!--a href="{{ "/team/biography/#THEIR_NAME" | absolute_url }}"-->
+            <a href="{{ "/team/biography/#THEIR_NAME" | absolute_url }}">
               <img class="centered-and-cropped" src="/team/photos/mol_fei.png">
             </a>
           </div>
