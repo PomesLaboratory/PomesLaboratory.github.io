@@ -198,7 +198,24 @@ sitemap:
       </div>
   </div>
 
-
+    <!-- Richard Banh -->
+    <div class="column">
+      <div class="card card-deck">
+        <div class="container">
+          <img class="centered-and-cropped" src="/team/photos/Richard_Banh.png">
+          <!-- OPTIONAL HOVER STUFF -->
+          <div class="overlay">
+            <a href="{{ "/team/biography/#richard_banh" | absolute_url }}">
+              <img class="centered-and-cropped" src="/team/photos/HV1.png">
+            </a>
+          </div>
+          <!-- ENDS HERE -->
+        </div>
+          <h3 class="header-text">Richard<br>Banh</h3>
+          <p class="title">PhD Researcher</p>
+        </div>
+    </div>
+    
     <!-- Quang Huynh -->
     <div class="column">
       <div class="card card-deck">
@@ -270,24 +287,79 @@ sitemap:
           <p class="title">MSc Researcher</p>
         </div>
     </div>
-
-    <!-- Richard Banh -->
+    
+    <!-- Bruce (Ruikai) Wu -->
     <div class="column">
       <div class="card card-deck">
         <div class="container">
-          <img class="centered-and-cropped" src="/team/photos/Richard_Banh.png">
+          <img class="centered-and-cropped" src="/team/photos/mol_fei.png" style="object-position: 0% 50;">
           <!-- OPTIONAL HOVER STUFF -->
           <div class="overlay">
-            <a href="{{ "/team/biography/#richard_banh" | absolute_url }}">
-              <img class="centered-and-cropped" src="/team/photos/HV1.png">
+            <!--a href="{{ "/team/biography/#THEIR_NAME" | absolute_url }}"-->
+              <img class="centered-and-cropped" src="/team/photos/mol_fei.png">
             </a>
           </div>
           <!-- ENDS HERE -->
         </div>
-          <h3 class="header-text">Richard<br>Banh</h3>
-          <p class="title">PhD Researcher</p>
+          <h3 class="header-text">Bruce<br>Wu</h3>
+          <p class="title">Undergraduate Researcher</p>
         </div>
     </div>
+
+    <!-- Bruce (Ruikai) Wu -->
+    <div class="column">
+      <div class="card card-deck">
+        <div class="container">
+          <img class="centered-and-cropped" src="/team/photos/mol_fei.png" style="object-position: 0% 50;">
+          <!-- OPTIONAL HOVER STUFF
+          <div class="overlay">
+            <!--a href="{{ "/team/biography/#THEIR_NAME" | absolute_url }}"-->
+              <img class="centered-and-cropped" src="/team/photos/mol_fei.png">
+            </a>
+          </div>
+          ENDS HERE -->
+        </div>
+          <h3 class="header-text">Bruce<br>Wu</h3>
+          <p class="title">Undergraduate Researcher</p>
+        </div>
+    </div>
+    
+    <!-- Kuai Yu -->
+    <div class="column">
+      <div class="card card-deck">
+        <div class="container">
+          <img class="centered-and-cropped" src="/team/photos/mol_fei.png" style="object-position: 0% 50;">
+          <!-- OPTIONAL HOVER STUFF
+          <div class="overlay">
+            <a href="{{ "/team/biography/#THEIR_NAME" | absolute_url }}">
+              <img class="centered-and-cropped" src="/team/photos/mol_fei.png">
+            </a>
+          </div>
+          ENDS HERE -->
+        </div>
+          <h3 class="header-text">Kuai<br>Yu</h3>
+          <p class="title">Undergraduate Researcher</p>
+        </div>
+    </div>
+    
+    <!-- Elnaz Mirhaji -->
+    <div class="column">
+      <div class="card card-deck">
+        <div class="container">
+          <img class="centered-and-cropped" src="/team/photos/mol_fei.png" style="object-position: 0% 50;">
+          <!-- OPTIONAL HOVER STUFF
+          <div class="overlay">
+            <a href="{{ "/team/biography/#THEIR_NAME" | absolute_url }}">
+              <img class="centered-and-cropped" src="/team/photos/mol_fei.png">
+            </a>
+          </div>
+          ENDS HERE -->
+        </div>
+          <h3 class="header-text">Elnaz<br>Mirhaji</h3>
+          <p class="title">Researcher</p>
+        </div>
+    </div>
+    
   </div>
 </div>
 
