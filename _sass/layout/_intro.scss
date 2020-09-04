@@ -27,11 +27,7 @@
 		h1 {
 			font-size: 5rem;
 			line-height: 1;
-      stroke: black;
-      stroke-width:10px;
-      // stroke-dasharray: 2,2;
-      stroke-linejoin: round;
-      animation: 2s pulsate infinite;
+      -webkit-text-stroke: 5px red;
 		}
 
 		p {
