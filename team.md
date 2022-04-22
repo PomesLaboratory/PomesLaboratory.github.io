@@ -277,7 +277,7 @@ sitemap:
   <li><a href="{{ "/team/biography/#nilu_chakrabarti" | absolute_url }}">Nilu Chakrabarti - Postdoctoral Fellow</a></li>
   <li>Nisha Patel - Researcher</li>
   <li>Pia Ädelrot - Visiting Professor</li>
-  <li><a href="{{ "/team/biography/#quang_huynh" | absolute_url }}">Quang Huynh - MSc</li>
+  <li><a href="{{ "/team/biography/#quang_huynh" | absolute_url }}">Quang Huynh - MSc</a></li>
   <li><a href="{{ "/team/biography/#rachel_ko" | absolute_url }}">Rachel Ko - Researcher</a></li>
   <li>Robert Lu - Rotation Student</li>
   <li>Robert Wilson - Rotation Student</li>
