@@ -180,7 +180,7 @@ sitemap:
         <p class="title">PhD Researcher</p>
       </div>
   </div>
-
+  
     <!-- Richard Banh -->
     <div class="column">
       <div class="card card-deck">
@@ -256,7 +256,6 @@ sitemap:
   <li>Fangwei Chang - Researcher</li>
   <li><a href="{{ "/team/biography/#fei_wang" | absolute_url }}">Fei Wang - Researcher</a></li>
   <li><a href="{{ "/team/biography/#david_caplan" | absolute_url }}">David Caplan - MSc</a></li>
-  <li>David Harding-Larsen - Researcher</li>
   <li><a href="{{ "/team/biography/#elisa_fadda" | absolute_url }}">Elisa Fadda - Postdoctoral Fellow</a></li>
   <li><a href="{{ "/team/biography/#ellen_li" | absolute_url }}">Ellen Li - Researcher</a></li>
   <li><a href="{{ "/team/biography/#grace_li" | absolute_url }}">Grace Li - Ph.D.</a></li>
