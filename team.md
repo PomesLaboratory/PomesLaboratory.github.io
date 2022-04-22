@@ -162,23 +162,6 @@ sitemap:
 <div class="row">
 
 <div class="centerwrapper">
-  <!-- JINGJING HUANG -->
-  <div class="column">
-    <div class="card card-deck">
-      <div class="container">
-        <img class="centered-and-cropped" src="/team/photos/Jingjing_Huang.jpg">
-        <!-- OPTIONAL HOVER STUFF -->
-        <div class="overlay">
-          <a href="{{ "/team/biography/#jingjing_huang" | absolute_url }}">
-            <img class="centered-and-cropped" src="/team/photos/mol_jj.png">
-          </a>
-        </div>
-        <!-- ENDS HERE -->
-      </div>
-        <h3 class="header-text">Jingjing<br>Huang</h3>
-        <p class="title">PhD Researcher</p>
-      </div>
-  </div>
 
   <!-- Zhi Zeng -->
   <div class="column">
@@ -216,114 +199,6 @@ sitemap:
         </div>
     </div>
     
-    <!-- Quang Huynh -->
-    <div class="column">
-      <div class="card card-deck">
-        <div class="container">
-          <img class="centered-and-cropped" src="/team/photos/Quang_Huynh.jpg">
-          <!-- OPTIONAL HOVER STUFF -->
-          <div class="overlay">
-            <a href="{{ "/team/biography/#quang_huynh" | absolute_url }}">
-              <img class="centered-and-cropped" src="/team/photos/mol_quang.png">
-            </a>
-          </div>
-          <!-- ENDS HERE -->
-        </div>
-          <h3 class="header-text">Quang<br>Huynh</h3>
-          <p class="title">MSc</p>
-        </div>
-    </div>
-
-    <!-- Anna Liang -->
-    <div class="column">
-      <div class="card card-deck">
-        <div class="container">
-          <img class="centered-and-cropped" src="/team/photos/Anna_Liang.jpeg">
-          <!-- OPTIONAL HOVER STUFF -->
-          <div class="overlay" style="clip-path: inset(0px 0px 0px 0px)">
-            <a href="{{ "/team/biography/#anna_liang" | absolute_url }}">
-              <img class="centered-and-cropped" src="/team/photos/LIMP2.png"  style="object-position: 0% 50%;">
-            </a>
-          </div>
-          <!-- ENDS HERE -->
-        </div>
-          <h3 class="header-text">Anna<br>Liang</h3>
-          <p class="title">MSc Researcher</p>
-        </div>
-    </div>
-
-    <!-- Andrea Guljas -->
-    <div class="column">
-      <div class="card card-deck">
-        <div class="container">
-          <img class="centered-and-cropped" src="/team/photos/Andrea_Guljas.jpg">
-          <!-- OPTIONAL HOVER STUFF -->
-          <div class="overlay">
-            <a href="{{ "/team/biography/#andrea_guljas" | absolute_url }}">
-              <img class="centered-and-cropped" src="/team/photos/mol_andrea.png">
-            </a>
-          </div>
-          <!-- ENDS HERE -->
-        </div>
-          <h3 class="header-text">Andrea<br>Guljas</h3>
-          <p class="title">MSc Researcher</p>
-        </div>
-    </div>
-
-    <!-- Lamia Hossain -->
-    <div class="column">
-      <div class="card card-deck">
-        <div class="container">
-          <img class="centered-and-cropped" src="/team/photos/Lamia_Hossain.jpg" style="object-position: 0% 50;">
-          <!-- OPTIONAL HOVER STUFF -->
-          <div class="overlay">
-            <a href="{{ "/team/biography/#lamia_hossain" | absolute_url }}">
-              <img class="centered-and-cropped" src="/team/photos/mol_lamia.png">
-            </a>
-          </div>
-          <!-- ENDS HERE -->
-        </div>
-          <h3 class="header-text">Lamia<br>Hossain</h3>
-          <p class="title">MSc Researcher</p>
-        </div>
-    </div>
-   
-    <!-- Bruce (Ruikai) Wu -->
-    <div class="column">
-      <div class="card card-deck">
-        <div class="container">
-          <img class="centered-and-cropped" src="/team/photos/mol_fei.png" style="object-position: 0% 50;">
-          <!-- OPTIONAL HOVER STUFF
-          <div class="overlay">
-            <a href="{{ "/team/biography/#THEIR_NAME" | absolute_url }}">
-              <img class="centered-and-cropped" src="/team/photos/mol_fei.png">
-            </a>
-          </div>
-          ENDS HERE -->
-        </div>
-          <h3 class="header-text">Bruce<br>Wu</h3>
-          <p class="title">Undergraduate Researcher</p>
-        </div>
-    </div>
-    
-    <!-- Kuai Yu -->
-    <div class="column">
-      <div class="card card-deck">
-        <div class="container">
-          <img class="centered-and-cropped" src="/team/photos/mol_fei.png" style="object-position: 0% 50;">
-          <!-- OPTIONAL HOVER STUFF
-          <div class="overlay">
-            <a href="{{ "/team/biography/#THEIR_NAME" | absolute_url }}">
-              <img class="centered-and-cropped" src="/team/photos/mol_fei.png">
-            </a>
-          </div>
-          ENDS HERE -->
-        </div>
-          <h3 class="header-text">Kuai<br>Yu</h3>
-          <p class="title">Undergraduate Researcher</p>
-        </div>
-    </div>
-    
     <!-- Elnaz Mirhaji -->
     <div class="column">
       <div class="card card-deck">
@@ -338,22 +213,42 @@ sitemap:
           ENDS HERE -->
         </div>
           <h3 class="header-text">Elnaz<br>Mirhaji</h3>
+          <p class="title">PhD Researcher</p>
+        </div>
+    </div>
+
+    <!-- David Harding-Larsen -->
+    <div class="column">
+      <div class="card card-deck">
+        <div class="container">
+          <img class="centered-and-cropped" src="/team/photos/mol_fei.png" style="object-position: 0% 50;">
+          <!-- OPTIONAL HOVER STUFF
+          <div class="overlay">
+            <a href="{{ "/team/biography/#THEIR_NAME" | absolute_url }}">
+              <img class="centered-and-cropped" src="/team/photos/mol_fei.png">
+            </a>
+          </div>
+          ENDS HERE -->
+        </div>
+          <h3 class="header-text">David<br>Harding-Larsen</h3>
           <p class="title">Researcher</p>
         </div>
     </div>
-    
   </div>
 </div>
 
 <header class="major">
 	<h1> Previous Members </h1>
 </header>
-
+    
 <ul class="subMenu">
   <li><a href="{{ "/team/biography/#aditi_ramesh" | absolute_url }}">Aditi Ramesh - MSc</a></li>
   <li><a href="{{ "/team/biography/#ananya_srivastava" | absolute_url }}">Ananya Srivastava - MSc</a></li>
   <li>Adrian Levine - Researcher</li>
   <li><a href="{{ "/team/biography/#anna_nikolic" | absolute_url }}">Ana Nikolic - Researcher</a></li>
+  <li><a href="{{ "/team/biography/#andrea_guljas" | absolute_url }}">Andrea Guljas - MSc</a></li>
+  <li><a href="{{ "/team/biography/#anna_liang" | absolute_url }}">Anna Liang - MSc</a></li>
+  <li>Bruce Wu - Researcher</li>
   <li><a href="{{ "/team/biography/#ching-hsing_yu" | absolute_url }}">Ching-Hsing Yu - Researcher</a></li>
   <li><a href="{{ "/team/biography/#christopher_ing" | absolute_url }}">Christopher Ing - PhD</a></li>
   <li><a href="{{ "/team/biography/#chris_madill" | absolute_url }}">Chris Madill - PhD</a></li>
@@ -361,23 +256,29 @@ sitemap:
   <li>Fangwei Chang - Researcher</li>
   <li><a href="{{ "/team/biography/#fei_wang" | absolute_url }}">Fei Wang - Researcher</a></li>
   <li><a href="{{ "/team/biography/#david_caplan" | absolute_url }}">David Caplan - MSc</a></li>
+  <li>David Harding-Larsen - Researcher</li>
   <li><a href="{{ "/team/biography/#elisa_fadda" | absolute_url }}">Elisa Fadda - Postdoctoral Fellow</a></li>
   <li><a href="{{ "/team/biography/#ellen_li" | absolute_url }}">Ellen Li - Researcher</a></li>
   <li><a href="{{ "/team/biography/#grace_li" | absolute_url }}">Grace Li - Ph.D.</a></li>
   <li>Helen Yao - Rotation Student</li>
   <li><a href="{{ "/team/biography/#howard_wu" | absolute_url }}">Howard Wu - Researcher</a></li>
   <li>Jethro Prinston - Rotation Student</li>
+  <li><a href="{{ "/team/biography/#jingjing_huang" | absolute_url }}">Jingjing Huang - PhD</a></li>
   <li>John Holyoake - Postdoctoral Fellow</li>
   <li>Joshua Charkow - Researcher</li>
   <li>Kethika Kulleperuma - PhD</li>
+  <li>Kuai Yu - Researcher</li>
+  <li><a href="{{ "/team/biography/#lamia_hossain" | absolute_url }}">Lamia Hossain - MSc</a></li>
   <li><a href="{{ "/team/biography/#loan_huynh" | absolute_url }}">Loan Huynh - Postdoctoral Fellow</a></li>
   <li><a href="{{ "/team/biography/#marty_kurylowicz" | absolute_url }}">Marty Kurylowicz - PhD</a></li>
   <li>Maxine Ty - Rotation Student</li>
   <li>Mishaal Munawar - Rotation Student</li>
+  <li>Nemo Liu - Rotation Student</li>
   <li><a href="{{ "/team/biography/#nick_wang" | absolute_url }}">Nick Wang - Researcher</a></li>
   <li><a href="{{ "/team/biography/#nilu_chakrabarti" | absolute_url }}">Nilu Chakrabarti - Postdoctoral Fellow</a></li>
   <li>Nisha Patel - Researcher</li>
   <li>Pia Ädelrot - Visiting Professor</li>
+  <li><a href="{{ "/team/biography/#quang_huynh" | absolute_url }}">Quang Huynh - MSc</li>
   <li><a href="{{ "/team/biography/#rachel_ko" | absolute_url }}">Rachel Ko - Researcher</a></li>
   <li>Robert Lu - Rotation Student</li>
   <li>Robert Wilson - Rotation Student</li>
@@ -385,6 +286,7 @@ sitemap:
   <li><a href="{{ "/team/biography/#sarah_rauscher" | absolute_url }}">Sarah Rauscher - PhD</a></li>
   <li>Shabnam Hooshmand - Visiting Professor</li>
   <li><a href="{{ "/team/biography/#stephanie_baud" | absolute_url }}">Stéphanie Baud - Postdoctoral Fellow</a></li>
+  <li>Shuheng Huang - Researcher </li>
   <li><a href="{{ "/team/biography/#tom_rodinger" | absolute_url }}">Tom Rodinger - PhD</a></li>
   <li><a href="{{ "/team/biography/#zhuyi_xue" | absolute_url }}">Zhuyi Xue - MSc</a></li>
 </ul>
